@@ -26,7 +26,7 @@ jobs:
 
           # Options
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, metadata
           config_display: columns
           config_timezone: Europe/Riga
           plugin_languages: yes

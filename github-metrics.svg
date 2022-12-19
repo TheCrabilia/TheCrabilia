@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            981 Commits
+                            982 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -148,20 +148,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 18.7mb of code in 2836 edited files across 213 commits</small>
+                <small>estimation from 18.7mb of code in 2861 edited files across 214 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="261.9015284941041" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="261.9015284941041" y="0" width="133.18365099360182" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="395.08517948770594" y="0" width="57.20512734029121" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="452.29030682799714" y="0" width="5.4726409380668795" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="457.76294776606403" y="0" width="0.8438231856556482" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="458.6067709517197" y="0" width="0.6129168970235206" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="459.2196878487432" y="0" width="0.4128048592709041" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="459.6324927080141" y="0" width="0.3675072919859278" height="8" fill="#199f4b"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="261.3252749018278" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="261.3252749018278" y="0" width="132.8906112478668" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="394.2158861496946" y="0" width="57.20543118129832" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="451.4213173309929" y="0" width="5.460599660499955" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="456.88191699149286" y="0" width="1.2978494672430452" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="458.1797664587359" y="0" width="0.8419665483737813" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.0217330071097" y="0" width="0.6115683154947779" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="459.63330132260444" y="0" width="0.3666986773955041" height="8" fill="#199f4b"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -190,6 +190,12 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Lua
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Ruby
@@ -202,12 +208,6 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Lua
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#199f4b" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Vim Script
@@ -216,7 +216,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Dec 2022, 13:09:18 (timezone Europe/Riga) with lowlighter/metrics@3.30.0</span>
+                <span>Last updated 19 Dec 2022, 14:19:52 (timezone Europe/Riga) with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
